@@ -1,2 +1,2 @@
 # first-repo
-My first GitHub repository @python for IT at KSU! :)
+# Hello GitHub this is my first repository for the KSU @python IT 15000 class !! :) 
